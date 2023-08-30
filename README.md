@@ -7,7 +7,7 @@ The Public Events API is designed to facilitate the management of public events.
 Features
 Create new public events with relevant information.
 Retrieve detailed information about existing events.
-Update event details, such as date, time, location, and description.
+Update event details, such as title, date time created, date time started, date time end, location, and description.
 Delete events that are no longer relevant.
 SOLID Principles
 The SOLID principles (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) are fundamental guidelines for writing maintainable and scalable software. The Public Events API follows these principles by organizing code into modular components with clear responsibilities, minimizing code duplication, and promoting flexibility through interfaces and abstractions.
